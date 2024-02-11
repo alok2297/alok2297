@@ -7,7 +7,7 @@
 👯 I'm looking to collaborate on Frontend and Backend Development, MERN Stack and Android Projects<br>
 🧑‍🎓 I'm currently learning Dev Ops and AWS<br>
 📫 How to reach me: Alokkumar.av22@gmail.com or message me on [whatsapp](https://wa.me/918563852477) <br>
-📃 Here is my [RESUME]([https://github.com/](https://github.com/alok2297/alok2297/blob/main/Alok_av22.pdf)).😉 
+📃 Here is my [RESUME](https://github.com/alok2297/alok2297/blob/main/Alok_av22.pdf).😉 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-kumar-31756b1bb/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24366987) 
